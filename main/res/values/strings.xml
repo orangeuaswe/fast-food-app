@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App details -->
+    <string name="app_name">Fast Food</string>
+    <string name="app_title">Fast Food Ordering</string>
+    <string name="app_subtitle">Order fresh food delivered fast</string>
+    <string name="logo_description">Application Logo</string>
+    <string name="app_footer">© 2025 orangeuaswe enterprises</string>
+    
+    <!-- Main Activity Button Labels -->
+    <string name="btn_burger">Burger</string>
+    <string name="btn_sandwich">Sandwich</string>
+    <string name="btn_beverage">Beverage</string>
+    <string name="btn_side">Side</string>
+    <string name="btn_current_order">View Current Order</string>
+    <string name="btn_store_orders">Stored Orders</string>
+    <string name="empty_order">Please add items to your order first</string>
+    
+    <!-- Activity Titles -->
+    <string name="order_beverage">Order Beverage</string>
+    <string name="beverage_title">Order Beverage</string>
+    <string name="order_burger">Order Burger</string>
+    <string name="burger_title">Order Burger</string>
+    <string name="order_sandwich">Order Sandwich</string>
+    <string name="order_side">Order Side</string>
+    <string name="current_order">Current Order</string>
+    <string name="stored_orders_title">Stored Orders</string>
+    
+    <!-- Image Descriptions -->
+    <string name="beverage_image_description">Beverage Image</string>
+    <string name="beverage_image">Beverage Image</string>
+    <string name="burger_image_description">Burger Image</string>
+    <string name="burger_image">Burger Image</string>
+    <string name="sandwich_image_description">Sandwich Image</string>
+    <string name="side_image_description">Side Image</string>
+    <string name="flavor_image_description">Flavor Image</string>
+    
+    <!-- Form Labels -->
+    <string name="flavor_label">Flavor:</string>
+    <string name="flavor">Flavor:</string>
+    <string name="size_label">Size:</string>
+    <string name="size">Size:</string>
+    <string name="bread_type_label">Bread Type:</string>
+    <string name="bread">Bread Type:</string>
+    <string name="patty_type_label">Patty Type:</string>
+    <string name="patty">Patty Type:</string>
+    <string name="protein_type_label">Protein Type:</string>
+    <string name="side_option_label">Side Option:</string>
+    <string name="quantity_label">Quantity:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="price_label">Price:</string>
+    <string name="price">Price:</string>
+    <string name="add_ons_label">Add-ons:</string>
+    <string name="addons">Add-ons:</string>
+    
+    <!-- Size Options -->
+    <string name="small_size">Small</string>
+    <string name="medium_size">Medium</string>
+    <string name="large_size">Large</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium (+$0.50)</string>
+    <string name="size_large">Large (+$1.00)</string>
+    
+    <!-- Patty Options -->
+    <string name="single_patty">Single Patty</string>
+    <string name="single">Single Patty</string>
+    <string name="double_patty">Double Patty (+$2.50)</string>
+    
+    <!-- Add-ons -->
+    <string name="lettuce">Lettuce (+$0.30)</string>
+    <string name="tomatoes">Tomatoes (+$0.30)</string>
+    <string name="onions">Onions (+$0.30)</string>
+    <string name="avocado">Avocado (+$0.50)</string>
+    <string name="cheese">Cheese (+$1.00)</string>
+    
+    <!-- Button Labels -->
+    <string name="add_to_order">Add to Order</string>
+    <string name="add">Add to Order</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="place_order">Place Order</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="remove_item">Remove</string>
+    <string name="clear_order">Clear Order</string>
+    <string name="view_order">View Order</string>
+    <string name="new_order">New Order</string>
+    
+    <!-- Combo Activity Labels -->
+    <string name="choose_combo_items">Choose Combo Items</string>
+    <string name="combo_description">Combo includes a medium drink and a small side (+$2.00)</string>
+    <string name="select_sandwich">Select Sandwich:</string>
+    <string name="choose_side_label">Choose Side:</string>
+    <string name="choose_drink_label">Choose Drink:</string>
+    <string name="combo_price_label">Combo Price:</string>
+    <string name="combo_price">Combo Price: $2.00 + Sandwich Price</string>
+    <string name="make_combo">Make it a Combo (+$2.00)</string>
+    <string name="combo">Make it a Combo (+$2.00)</string>
+    
+    <!-- Toast Messages -->
+    <string name="item_added">Item added to order</string>
+    <string name="item_removed">Item removed from order</string>
+    <string name="order_placed">Order has been placed</string>
+    <string name="order_cancelled">Order has been cancelled</string>
+    <string name="empty_order_message">Add items to your order first</string>
+    <string name="order_cleared">Order has been cleared</string>
+    
+    <!-- Dialog Messages -->
+    <string name="confirm_place_order">Are you sure you want to place this order?</string>
+    <string name="confirm_cancel_order">Are you sure you want to cancel this order?</string>
+    <string name="confirm_clear_order">Are you sure you want to clear this order?</string>
+    <string name="confirm_cancel_order_number">Are you sure you want to cancel Order #%d?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <!-- Order Details -->
+    <string name="order_number">Order #%d</string>
+    <string name="order_number_placeholder">Order #1001</string>
+    <string name="order_items">Order Items</string>
+    <string name="subtotal">Subtotal: $%.2f</string>
+    <string name="subtotal_label">Subtotal:</string>
+    <string name="tax">Tax: $%.2f</string>
+    <string name="tax_label">Tax:</string>
+    <string name="total">Total: $%.2f</string>
+    <string name="total_label">Total:</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_management">Order Management</string>
+    <string name="stored_orders">Stored Orders:</string>
+    <string name="orders_label">Orders:</string>
+    <string name="order_details_label">Order Details:</string>
+    
+    <!-- Error Messages -->
+    <string name="error_loading_order">Error loading order</string>
+    <string name="error_cancelling_order">Error cancelling order</string>
+</resources>
